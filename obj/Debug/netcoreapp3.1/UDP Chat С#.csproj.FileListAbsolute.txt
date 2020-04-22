@@ -1,0 +1,13 @@
+D:\App's\UDP Chat С#\bin\Debug\netcoreapp3.1\UDP Chat С#.exe
+D:\App's\UDP Chat С#\bin\Debug\netcoreapp3.1\UDP Chat С#.deps.json
+D:\App's\UDP Chat С#\bin\Debug\netcoreapp3.1\UDP Chat С#.runtimeconfig.json
+D:\App's\UDP Chat С#\bin\Debug\netcoreapp3.1\UDP Chat С#.runtimeconfig.dev.json
+D:\App's\UDP Chat С#\bin\Debug\netcoreapp3.1\UDP Chat С#.dll
+D:\App's\UDP Chat С#\bin\Debug\netcoreapp3.1\UDP Chat С#.pdb
+D:\App's\UDP Chat С#\obj\Debug\netcoreapp3.1\UDP Chat С#.csprojAssemblyReference.cache
+D:\App's\UDP Chat С#\obj\Debug\netcoreapp3.1\UDP Chat С#.csproj.CoreCompileInputs.cache
+D:\App's\UDP Chat С#\obj\Debug\netcoreapp3.1\UDP Chat С#.AssemblyInfoInputs.cache
+D:\App's\UDP Chat С#\obj\Debug\netcoreapp3.1\UDP Chat С#.AssemblyInfo.cs
+D:\App's\UDP Chat С#\obj\Debug\netcoreapp3.1\UDP Chat С#.dll
+D:\App's\UDP Chat С#\obj\Debug\netcoreapp3.1\UDP Chat С#.pdb
+D:\App's\UDP Chat С#\obj\Debug\netcoreapp3.1\UDP Chat С#.genruntimeconfig.cache
